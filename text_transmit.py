@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 23 21:54:51 2021
-
-@author: ssabi
-"""
-
-
 import serial
 import time
 
